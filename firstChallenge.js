@@ -46,6 +46,8 @@ class ProductManager {
     };
 }
 
+// Prueba abajo
+
 const productManager = new ProductManager();
 
 productManager.getProducts();
